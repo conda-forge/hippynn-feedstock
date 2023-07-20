@@ -1,11 +1,11 @@
-About hippynn
-=============
+About hippynn-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hippynn-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/lanl/hippynn
 
 Package license: LicenseRef-US-Government OR BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hippynn-feedstock/blob/main/LICENSE.txt)
 
 Summary: The hippynn python package - a modular library for atomistic machine learning with pytorch
 
@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@jan-janssen](https://github.com/jan-janssen/)
+* [@lubbersnick](https://github.com/lubbersnick/)
 
