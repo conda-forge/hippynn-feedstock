@@ -23,6 +23,7 @@ requirements:
     - numpy
     - numba
     - pytorch
+    - scipy
 
 test:
   imports:
