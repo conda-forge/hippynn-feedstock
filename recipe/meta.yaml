@@ -1,5 +1,5 @@
 {% set name = "hippynn" %}
-{% set version = "0.1.1" %}
+{% set version = "0.1.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/hippynn-{{ version }}.tar.gz
-  sha256: b81d732c5137dbd4f6acbdb273fd96dfa2cde761df6e29e72a4d0e7faf3c5223
+  sha256: 2a0a6942b05d7627974ae904f1c0d4039d8dd6680f16db9178a889476dedb4ea
 
 build:
   noarch: python
